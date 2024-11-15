@@ -2,6 +2,7 @@ Git is a version control system.
 Git is free software.123456
 one more
 Git tracks changes of files.
+Creating a new branch is quick.
 
 //git学习
 //创建版本库
